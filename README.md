@@ -4,6 +4,7 @@
 ######### TO SEND SECURE MESSAGE TO ME FOLLOW THE STEPS MENTIONED BELOW ##########
 
 Step 1: Import the key to local keyring using following command:
+
 gpg --import <public_key_Filename.extension>
 
 Step 2: Do the encryption: 
